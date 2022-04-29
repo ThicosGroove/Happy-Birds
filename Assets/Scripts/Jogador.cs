@@ -68,7 +68,6 @@ public class Jogador : MonoBehaviour
 
         PlayLaunchSFX();
 
-        Debug.LogError("Lançou");
         hasLaunch = true;
         _tentativa++;
     }
