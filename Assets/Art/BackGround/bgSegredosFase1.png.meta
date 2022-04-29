@@ -1,0 +1,5798 @@
+fileFormatVersion: 2
+guid: bd0403f64d404034e8f254b9ee4c0744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8690223659019108482
+    second: bgSegredosFase1_0
+  - first:
+      213: -2102229029916020021
+    second: bgSegredosFase1_1
+  - first:
+      213: -1500865516921099352
+    second: bgSegredosFase1_2
+  - first:
+      213: 1893730983149020566
+    second: bgSegredosFase1_3
+  - first:
+      213: 3022169984515653807
+    second: bgSegredosFase1_4
+  - first:
+      213: -37388024739541321
+    second: bgSegredosFase1_5
+  - first:
+      213: 401551808445479999
+    second: bgSegredosFase1_6
+  - first:
+      213: -5249110444954179140
+    second: bgSegredosFase1_7
+  - first:
+      213: -7601135929451852458
+    second: bgSegredosFase1_8
+  - first:
+      213: -1302259931710864778
+    second: bgSegredosFase1_9
+  - first:
+      213: -6548338045615448310
+    second: bgSegredosFase1_10
+  - first:
+      213: -1978256138613729616
+    second: bgSegredosFase1_11
+  - first:
+      213: -2481373852851308559
+    second: bgSegredosFase1_12
+  - first:
+      213: -4305152580622581440
+    second: bgSegredosFase1_13
+  - first:
+      213: -8909411625623903723
+    second: bgSegredosFase1_14
+  - first:
+      213: 2670898199600679032
+    second: bgSegredosFase1_15
+  - first:
+      213: 5516136675753626310
+    second: bgSegredosFase1_16
+  - first:
+      213: 3055578136545334278
+    second: bgSegredosFase1_17
+  - first:
+      213: -5187787904942595379
+    second: bgSegredosFase1_18
+  - first:
+      213: 680749293054687602
+    second: bgSegredosFase1_19
+  - first:
+      213: -4046309781644478542
+    second: bgSegredosFase1_20
+  - first:
+      213: -95345405315840793
+    second: bgSegredosFase1_21
+  - first:
+      213: 3834424005739246909
+    second: bgSegredosFase1_22
+  - first:
+      213: -2436510774359853734
+    second: bgSegredosFase1_23
+  - first:
+      213: -7911547797825671265
+    second: bgSegredosFase1_24
+  - first:
+      213: 1668318265118861770
+    second: bgSegredosFase1_25
+  - first:
+      213: -8338221870813584892
+    second: bgSegredosFase1_26
+  - first:
+      213: 2252252357390429579
+    second: bgSegredosFase1_27
+  - first:
+      213: 7796995064676238191
+    second: bgSegredosFase1_28
+  - first:
+      213: 2729199951676791787
+    second: bgSegredosFase1_29
+  - first:
+      213: 8780378543747785963
+    second: bgSegredosFase1_30
+  - first:
+      213: -6050132723429449675
+    second: bgSegredosFase1_31
+  - first:
+      213: -3419122402468184105
+    second: bgSegredosFase1_32
+  - first:
+      213: 9098288159762653976
+    second: bgSegredosFase1_33
+  - first:
+      213: -1251346780098938287
+    second: bgSegredosFase1_34
+  - first:
+      213: -3735679044473341735
+    second: bgSegredosFase1_35
+  - first:
+      213: -2449307589781253396
+    second: bgSegredosFase1_36
+  - first:
+      213: 8359505447755948839
+    second: bgSegredosFase1_37
+  - first:
+      213: 2192843597791384631
+    second: bgSegredosFase1_38
+  - first:
+      213: -8397919427573171252
+    second: bgSegredosFase1_39
+  - first:
+      213: 154944308642722038
+    second: bgSegredosFase1_40
+  - first:
+      213: 6444103056953193232
+    second: bgSegredosFase1_41
+  - first:
+      213: 5819119838398774029
+    second: bgSegredosFase1_42
+  - first:
+      213: -4577202432222697334
+    second: bgSegredosFase1_43
+  - first:
+      213: -5016862534239012215
+    second: bgSegredosFase1_44
+  - first:
+      213: -2108147013695764820
+    second: bgSegredosFase1_45
+  - first:
+      213: 8568538910338870813
+    second: bgSegredosFase1_46
+  - first:
+      213: 538141053803919214
+    second: bgSegredosFase1_47
+  - first:
+      213: 8809902047640385751
+    second: bgSegredosFase1_48
+  - first:
+      213: -8326758577437793789
+    second: bgSegredosFase1_49
+  - first:
+      213: 4761810585147020506
+    second: bgSegredosFase1_50
+  - first:
+      213: 2706268394016517879
+    second: bgSegredosFase1_51
+  - first:
+      213: -8016486588216831708
+    second: bgSegredosFase1_52
+  - first:
+      213: 1715385963618972423
+    second: bgSegredosFase1_53
+  - first:
+      213: 7114924692878089473
+    second: bgSegredosFase1_54
+  - first:
+      213: -6390097794261159163
+    second: bgSegredosFase1_55
+  - first:
+      213: -799429071878286206
+    second: bgSegredosFase1_56
+  - first:
+      213: 943418099000521292
+    second: bgSegredosFase1_57
+  - first:
+      213: 6511667021691585275
+    second: bgSegredosFase1_58
+  - first:
+      213: -4810831610188590973
+    second: bgSegredosFase1_59
+  - first:
+      213: 3312069838739966801
+    second: bgSegredosFase1_60
+  - first:
+      213: 7125280636431425854
+    second: bgSegredosFase1_61
+  - first:
+      213: -8570532821660038885
+    second: bgSegredosFase1_62
+  - first:
+      213: -8002147331125893736
+    second: bgSegredosFase1_63
+  - first:
+      213: -1557667694809254722
+    second: bgSegredosFase1_64
+  - first:
+      213: 6627655831550222754
+    second: bgSegredosFase1_65
+  - first:
+      213: -4306304635931083515
+    second: bgSegredosFase1_66
+  - first:
+      213: 6525328613828188722
+    second: bgSegredosFase1_67
+  - first:
+      213: 1242656996008351783
+    second: bgSegredosFase1_68
+  - first:
+      213: -3777603839889072623
+    second: bgSegredosFase1_69
+  - first:
+      213: -1395474123236973588
+    second: bgSegredosFase1_70
+  - first:
+      213: -4168028147937707307
+    second: bgSegredosFase1_71
+  - first:
+      213: -3175236390979744128
+    second: bgSegredosFase1_72
+  - first:
+      213: -1973187491816494784
+    second: bgSegredosFase1_73
+  - first:
+      213: 6339847650231132837
+    second: bgSegredosFase1_74
+  - first:
+      213: -5865468378300491362
+    second: bgSegredosFase1_75
+  - first:
+      213: -4869500999726945547
+    second: bgSegredosFase1_76
+  - first:
+      213: -142025828152693662
+    second: bgSegredosFase1_77
+  - first:
+      213: 1502080454489304989
+    second: bgSegredosFase1_78
+  - first:
+      213: 5700992212991453313
+    second: bgSegredosFase1_79
+  - first:
+      213: 7426226792352676628
+    second: bgSegredosFase1_80
+  - first:
+      213: -324987559910769081
+    second: bgSegredosFase1_81
+  - first:
+      213: 1954101161396844632
+    second: bgSegredosFase1_82
+  - first:
+      213: -7996913580335227224
+    second: bgSegredosFase1_83
+  - first:
+      213: -797535504454395779
+    second: bgSegredosFase1_84
+  - first:
+      213: -7336273574008689870
+    second: bgSegredosFase1_85
+  - first:
+      213: 7322489746196275557
+    second: bgSegredosFase1_86
+  - first:
+      213: 6603082839381304822
+    second: bgSegredosFase1_87
+  - first:
+      213: 4330578143795837436
+    second: bgSegredosFase1_88
+  - first:
+      213: -9009186466350246464
+    second: bgSegredosFase1_89
+  - first:
+      213: -446961067572600816
+    second: bgSegredosFase1_90
+  - first:
+      213: 7785845045317954404
+    second: bgSegredosFase1_91
+  - first:
+      213: -7646379928699460943
+    second: bgSegredosFase1_92
+  - first:
+      213: 3744709205399598185
+    second: bgSegredosFase1_93
+  - first:
+      213: 5095464153771899649
+    second: bgSegredosFase1_94
+  - first:
+      213: -2744253726183915609
+    second: bgSegredosFase1_95
+  - first:
+      213: 3598675576673422744
+    second: bgSegredosFase1_96
+  - first:
+      213: 3971027211811822734
+    second: bgSegredosFase1_97
+  - first:
+      213: -8268803291616800695
+    second: bgSegredosFase1_98
+  - first:
+      213: -657736645236839015
+    second: bgSegredosFase1_99
+  - first:
+      213: 4488176489427826271
+    second: bgSegredosFase1_100
+  - first:
+      213: 3983863115904192949
+    second: bgSegredosFase1_101
+  - first:
+      213: -3207613098464508583
+    second: bgSegredosFase1_102
+  - first:
+      213: 7147918376665422613
+    second: bgSegredosFase1_103
+  - first:
+      213: -1977320101403445344
+    second: bgSegredosFase1_104
+  - first:
+      213: -2986429234005250215
+    second: bgSegredosFase1_105
+  - first:
+      213: -6318775101685167951
+    second: bgSegredosFase1_106
+  - first:
+      213: 1620088598560267532
+    second: bgSegredosFase1_107
+  - first:
+      213: 2404916734477037410
+    second: bgSegredosFase1_108
+  - first:
+      213: -453086077073343321
+    second: bgSegredosFase1_109
+  - first:
+      213: 1223758314962554316
+    second: bgSegredosFase1_110
+  - first:
+      213: -3675951115832110523
+    second: bgSegredosFase1_111
+  - first:
+      213: 856576661572608250
+    second: bgSegredosFase1_112
+  - first:
+      213: 234388521034311677
+    second: bgSegredosFase1_113
+  - first:
+      213: 876893982343345828
+    second: bgSegredosFase1_114
+  - first:
+      213: 8329961586282152353
+    second: bgSegredosFase1_115
+  - first:
+      213: -8041535498733152146
+    second: bgSegredosFase1_116
+  - first:
+      213: 1734245078964879973
+    second: bgSegredosFase1_117
+  - first:
+      213: -567779400318823389
+    second: bgSegredosFase1_118
+  - first:
+      213: -7182942946633474070
+    second: bgSegredosFase1_119
+  - first:
+      213: 2579139951322791225
+    second: bgSegredosFase1_120
+  - first:
+      213: 3965537574532527815
+    second: bgSegredosFase1_121
+  - first:
+      213: 3383865725819651553
+    second: bgSegredosFase1_122
+  - first:
+      213: 7129082237635791826
+    second: bgSegredosFase1_123
+  - first:
+      213: 5091987643389167968
+    second: bgSegredosFase1_124
+  - first:
+      213: -7793408151400072049
+    second: bgSegredosFase1_125
+  - first:
+      213: -4559869948875756695
+    second: bgSegredosFase1_126
+  - first:
+      213: -5582003629001091993
+    second: bgSegredosFase1_127
+  - first:
+      213: -1759394062980629033
+    second: bgSegredosFase1_128
+  - first:
+      213: -2260840772779091999
+    second: bgSegredosFase1_129
+  - first:
+      213: 6380695577214212905
+    second: bgSegredosFase1_130
+  - first:
+      213: 5625804797863664221
+    second: bgSegredosFase1_131
+  - first:
+      213: 5221164021121727858
+    second: bgSegredosFase1_132
+  - first:
+      213: -379468757166987681
+    second: bgSegredosFase1_133
+  - first:
+      213: 3871697372566418875
+    second: bgSegredosFase1_134
+  - first:
+      213: 5105823456655085455
+    second: bgSegredosFase1_135
+  - first:
+      213: 4349569329194544844
+    second: bgSegredosFase1_136
+  - first:
+      213: 1021100969239215084
+    second: bgSegredosFase1_137
+  - first:
+      213: -4854182426966133748
+    second: bgSegredosFase1_138
+  - first:
+      213: 1582771760487870102
+    second: bgSegredosFase1_139
+  - first:
+      213: 6955374736725514811
+    second: bgSegredosFase1_140
+  - first:
+      213: 5257310454754501931
+    second: bgSegredosFase1_141
+  - first:
+      213: 9034456583422796852
+    second: bgSegredosFase1_142
+  - first:
+      213: 2670372112378553459
+    second: bgSegredosFase1_143
+  - first:
+      213: -1308166078645617366
+    second: bgSegredosFase1_144
+  - first:
+      213: 6777975391474505764
+    second: bgSegredosFase1_145
+  - first:
+      213: 1532821714465118498
+    second: bgSegredosFase1_146
+  - first:
+      213: -1042080301682427962
+    second: bgSegredosFase1_147
+  - first:
+      213: -739360230274366984
+    second: bgSegredosFase1_148
+  - first:
+      213: 4662032723768365227
+    second: bgSegredosFase1_149
+  - first:
+      213: -3299519328448652293
+    second: bgSegredosFase1_150
+  - first:
+      213: -6275743228591905374
+    second: bgSegredosFase1_151
+  - first:
+      213: -874860317834717807
+    second: bgSegredosFase1_152
+  - first:
+      213: 4774852559443729207
+    second: bgSegredosFase1_153
+  - first:
+      213: 2164113419997926218
+    second: bgSegredosFase1_154
+  - first:
+      213: -8425032509368080545
+    second: bgSegredosFase1_155
+  - first:
+      213: -6265297863365662674
+    second: bgSegredosFase1_156
+  - first:
+      213: 7102452444761182087
+    second: bgSegredosFase1_157
+  - first:
+      213: -8203245172788414523
+    second: bgSegredosFase1_158
+  - first:
+      213: -7860423101362516344
+    second: bgSegredosFase1_159
+  - first:
+      213: -1114046499175064427
+    second: bgSegredosFase1_160
+  - first:
+      213: 4468234006827567001
+    second: bgSegredosFase1_161
+  - first:
+      213: -1830889000100971324
+    second: bgSegredosFase1_162
+  - first:
+      213: 594813684369847831
+    second: bgSegredosFase1_163
+  - first:
+      213: 220970660456364990
+    second: bgSegredosFase1_164
+  - first:
+      213: -520705196544426885
+    second: bgSegredosFase1_165
+  - first:
+      213: -6973420441305099245
+    second: bgSegredosFase1_166
+  - first:
+      213: -4485474348948487958
+    second: bgSegredosFase1_167
+  - first:
+      213: -9135820891757163584
+    second: bgSegredosFase1_168
+  - first:
+      213: -2117494108986725390
+    second: bgSegredosFase1_169
+  - first:
+      213: -4812845358377311095
+    second: bgSegredosFase1_170
+  - first:
+      213: -3697885292713505965
+    second: bgSegredosFase1_171
+  - first:
+      213: 8057499225059265304
+    second: bgSegredosFase1_172
+  - first:
+      213: -7232461441465813867
+    second: bgSegredosFase1_173
+  - first:
+      213: 2079552876317417547
+    second: bgSegredosFase1_174
+  - first:
+      213: -2001897989388439757
+    second: bgSegredosFase1_175
+  - first:
+      213: 7756305595402292602
+    second: bgSegredosFase1_176
+  - first:
+      213: -1625435852931398663
+    second: bgSegredosFase1_177
+  - first:
+      213: -4524750936929305244
+    second: bgSegredosFase1_178
+  - first:
+      213: -6349740257780614670
+    second: bgSegredosFase1_179
+  - first:
+      213: -5044925902094797621
+    second: bgSegredosFase1_180
+  - first:
+      213: 5646995377426812482
+    second: bgSegredosFase1_181
+  - first:
+      213: 6305725539583138370
+    second: bgSegredosFase1_182
+  - first:
+      213: -1952429714232165213
+    second: bgSegredosFase1_183
+  - first:
+      213: -5626585352653958852
+    second: bgSegredosFase1_184
+  - first:
+      213: 4005875414900364482
+    second: bgSegredosFase1_185
+  - first:
+      213: -2689434403848382432
+    second: bgSegredosFase1_186
+  - first:
+      213: 8806244161976663248
+    second: bgSegredosFase1_187
+  - first:
+      213: 8700323107213191536
+    second: bgSegredosFase1_188
+  - first:
+      213: 1331275997253809574
+    second: bgSegredosFase1_189
+  - first:
+      213: -4415911443344011322
+    second: bgSegredosFase1_190
+  - first:
+      213: 6904454647899626225
+    second: bgSegredosFase1_191
+  - first:
+      213: 483940499450517263
+    second: bgSegredosFase1_192
+  - first:
+      213: -5784179406163134322
+    second: bgSegredosFase1_193
+  - first:
+      213: 6459130807747258103
+    second: bgSegredosFase1_194
+  - first:
+      213: -1687989804696687495
+    second: bgSegredosFase1_195
+  - first:
+      213: 557395875331820190
+    second: bgSegredosFase1_196
+  - first:
+      213: 5356917754253589733
+    second: bgSegredosFase1_197
+  - first:
+      213: -1666541475633113452
+    second: bgSegredosFase1_198
+  - first:
+      213: 4816105732463636545
+    second: bgSegredosFase1_199
+  - first:
+      213: -7445270060601643836
+    second: bgSegredosFase1_200
+  - first:
+      213: -4257023421355030165
+    second: bgSegredosFase1_201
+  - first:
+      213: -3975864289008090389
+    second: bgSegredosFase1_202
+  - first:
+      213: -8627939618495392201
+    second: bgSegredosFase1_203
+  - first:
+      213: 2964537983920759500
+    second: bgSegredosFase1_204
+  - first:
+      213: 2205559060011190352
+    second: bgSegredosFase1_205
+  - first:
+      213: 6464137688473566850
+    second: bgSegredosFase1_206
+  - first:
+      213: 8585444134908201991
+    second: bgSegredosFase1_207
+  - first:
+      213: 3761328271619709452
+    second: bgSegredosFase1_208
+  - first:
+      213: 7268608725552031940
+    second: bgSegredosFase1_209
+  - first:
+      213: -1197915631226568297
+    second: bgSegredosFase1_210
+  - first:
+      213: -4225986637743379692
+    second: bgSegredosFase1_211
+  - first:
+      213: 7988322989884103991
+    second: bgSegredosFase1_212
+  - first:
+      213: 2363404811073731421
+    second: bgSegredosFase1_213
+  - first:
+      213: 4847373053762484885
+    second: bgSegredosFase1_214
+  - first:
+      213: 1780251605598298916
+    second: bgSegredosFase1_215
+  - first:
+      213: -5092860858330720500
+    second: bgSegredosFase1_216
+  - first:
+      213: -3431215979217843801
+    second: bgSegredosFase1_217
+  - first:
+      213: -4639756678605283565
+    second: bgSegredosFase1_218
+  - first:
+      213: -5093724258674678930
+    second: bgSegredosFase1_219
+  - first:
+      213: 4956211894582132054
+    second: bgSegredosFase1_220
+  - first:
+      213: 1465104366680454589
+    second: bgSegredosFase1_221
+  - first:
+      213: 1647923310669543667
+    second: bgSegredosFase1_222
+  - first:
+      213: -5383764015544961016
+    second: bgSegredosFase1_223
+  - first:
+      213: 7146228175219047441
+    second: bgSegredosFase1_224
+  - first:
+      213: 4808904734723449738
+    second: bgSegredosFase1_225
+  - first:
+      213: -3495041989324116555
+    second: bgSegredosFase1_226
+  - first:
+      213: -8188617402673369145
+    second: bgSegredosFase1_227
+  - first:
+      213: 7930139997323916318
+    second: bgSegredosFase1_228
+  - first:
+      213: 1703777890620852328
+    second: bgSegredosFase1_229
+  - first:
+      213: -594228390162249394
+    second: bgSegredosFase1_230
+  - first:
+      213: -8606510263165020504
+    second: bgSegredosFase1_231
+  - first:
+      213: -55001931473051252
+    second: bgSegredosFase1_232
+  - first:
+      213: -5675914032811481468
+    second: bgSegredosFase1_233
+  - first:
+      213: -2197342630653042753
+    second: bgSegredosFase1_234
+  - first:
+      213: -3986253459074878225
+    second: bgSegredosFase1_235
+  - first:
+      213: 2305402826324416846
+    second: bgSegredosFase1_236
+  - first:
+      213: -3215200421627743691
+    second: bgSegredosFase1_237
+  - first:
+      213: -7986897831148913798
+    second: bgSegredosFase1_238
+  - first:
+      213: 6430922832118791655
+    second: bgSegredosFase1_239
+  - first:
+      213: 597380683431797565
+    second: bgSegredosFase1_240
+  - first:
+      213: 358857895836000830
+    second: bgSegredosFase1_241
+  - first:
+      213: 7933648894303781822
+    second: bgSegredosFase1_242
+  - first:
+      213: 8176984560979858866
+    second: bgSegredosFase1_243
+  - first:
+      213: 6757541360211337296
+    second: bgSegredosFase1_244
+  - first:
+      213: 5783437382921089607
+    second: bgSegredosFase1_245
+  - first:
+      213: -6031315820857266129
+    second: bgSegredosFase1_246
+  - first:
+      213: 8343603829747304022
+    second: bgSegredosFase1_247
+  - first:
+      213: -937258343255294274
+    second: bgSegredosFase1_248
+  - first:
+      213: 2799108828830489169
+    second: bgSegredosFase1_249
+  - first:
+      213: -4641975953515720564
+    second: bgSegredosFase1_250
+  - first:
+      213: 9187507841247949271
+    second: bgSegredosFase1_251
+  - first:
+      213: 8160972615422770691
+    second: bgSegredosFase1_252
+  - first:
+      213: -9028357747354768920
+    second: bgSegredosFase1_253
+  - first:
+      213: -1080501096598718313
+    second: bgSegredosFase1_254
+  - first:
+      213: -4298234868508423595
+    second: bgSegredosFase1_255
+  - first:
+      213: -7994404499236170536
+    second: bgSegredosFase1_256
+  - first:
+      213: -799390079697108872
+    second: bgSegredosFase1_257
+  - first:
+      213: -8320628441592812284
+    second: bgSegredosFase1_258
+  - first:
+      213: -7303022126115728392
+    second: bgSegredosFase1_259
+  - first:
+      213: 1197856017817932586
+    second: bgSegredosFase1_260
+  - first:
+      213: -3199648348202982310
+    second: bgSegredosFase1_261
+  - first:
+      213: 2495215317879115056
+    second: bgSegredosFase1_262
+  - first:
+      213: 146201031035570446
+    second: bgSegredosFase1_263
+  - first:
+      213: 755222322991877921
+    second: bgSegredosFase1_264
+  - first:
+      213: -3860436448509470027
+    second: bgSegredosFase1_265
+  - first:
+      213: -5061901072733623067
+    second: bgSegredosFase1_266
+  - first:
+      213: -4419703874208636109
+    second: bgSegredosFase1_267
+  - first:
+      213: -7130637515338015311
+    second: bgSegredosFase1_268
+  - first:
+      213: -8533588734953445231
+    second: bgSegredosFase1_269
+  - first:
+      213: 5436109532207953162
+    second: bgSegredosFase1_270
+  - first:
+      213: -1189239945287933676
+    second: bgSegredosFase1_271
+  - first:
+      213: -30450603993777524
+    second: bgSegredosFase1_272
+  - first:
+      213: -1890878105106477846
+    second: bgSegredosFase1_273
+  - first:
+      213: 7921424107111976110
+    second: bgSegredosFase1_274
+  - first:
+      213: 8051756359371499654
+    second: bgSegredosFase1_275
+  - first:
+      213: -8384331502309151688
+    second: bgSegredosFase1_276
+  - first:
+      213: 7281662368753392236
+    second: bgSegredosFase1_277
+  - first:
+      213: -567139340279546167
+    second: bgSegredosFase1_278
+  - first:
+      213: -1704151264680175959
+    second: bgSegredosFase1_279
+  - first:
+      213: -3276370314291224807
+    second: bgSegredosFase1_280
+  - first:
+      213: 2829781190902742546
+    second: bgSegredosFase1_281
+  - first:
+      213: -3798485263868386765
+    second: bgSegredosFase1_282
+  - first:
+      213: 7238857683455859262
+    second: bgSegredosFase1_283
+  - first:
+      213: 2354025953272851897
+    second: bgSegredosFase1_284
+  - first:
+      213: 3116962426718983940
+    second: bgSegredosFase1_285
+  - first:
+      213: 4127511737338494211
+    second: bgSegredosFase1_286
+  - first:
+      213: 6767070208599701711
+    second: bgSegredosFase1_287
+  - first:
+      213: -3743436157927120271
+    second: bgSegredosFase1_288
+  - first:
+      213: -7151562017248150177
+    second: bgSegredosFase1_289
+  - first:
+      213: -7230250473849251127
+    second: bgSegredosFase1_290
+  - first:
+      213: 8697046218323215909
+    second: bgSegredosFase1_291
+  - first:
+      213: 1984658968490910867
+    second: bgSegredosFase1_292
+  - first:
+      213: 9195335539695461476
+    second: bgSegredosFase1_293
+  - first:
+      213: 522671234557498760
+    second: bgSegredosFase1_294
+  - first:
+      213: 4140303793665021515
+    second: bgSegredosFase1_295
+  - first:
+      213: 8479220065418115380
+    second: bgSegredosFase1_296
+  - first:
+      213: -3887252393715724329
+    second: bgSegredosFase1_297
+  - first:
+      213: -4742405649020505058
+    second: bgSegredosFase1_298
+  - first:
+      213: -9076529933131033433
+    second: bgSegredosFase1_299
+  - first:
+      213: 5667985251251000677
+    second: bgSegredosFase1_300
+  - first:
+      213: 8496660666134010721
+    second: bgSegredosFase1_301
+  - first:
+      213: 7374047224159984443
+    second: bgSegredosFase1_302
+  - first:
+      213: -6908914784572075817
+    second: bgSegredosFase1_303
+  - first:
+      213: -3728843772725542195
+    second: bgSegredosFase1_304
+  - first:
+      213: 6191853794513659357
+    second: bgSegredosFase1_305
+  - first:
+      213: 8396718193392210971
+    second: bgSegredosFase1_306
+  - first:
+      213: 7030715567074303334
+    second: bgSegredosFase1_307
+  - first:
+      213: -1013219334135920129
+    second: bgSegredosFase1_308
+  - first:
+      213: 6092474681238020673
+    second: bgSegredosFase1_309
+  - first:
+      213: 7576622907514136443
+    second: bgSegredosFase1_310
+  - first:
+      213: 2599022132508744117
+    second: bgSegredosFase1_311
+  - first:
+      213: 6875088468500672716
+    second: bgSegredosFase1_312
+  - first:
+      213: 2844848413935052488
+    second: bgSegredosFase1_313
+  - first:
+      213: 5445044919254133554
+    second: bgSegredosFase1_314
+  - first:
+      213: 5273679057975148913
+    second: bgSegredosFase1_315
+  - first:
+      213: -1874042001342373738
+    second: bgSegredosFase1_316
+  - first:
+      213: -2603111547325231334
+    second: bgSegredosFase1_317
+  - first:
+      213: 5002895919993417864
+    second: bgSegredosFase1_318
+  - first:
+      213: 1778452992503649134
+    second: bgSegredosFase1_319
+  - first:
+      213: 5822683762911795464
+    second: bgSegredosFase1_320
+  - first:
+      213: 1314998970737584595
+    second: bgSegredosFase1_321
+  - first:
+      213: 2595756190746946349
+    second: bgSegredosFase1_322
+  - first:
+      213: -4559384560322609897
+    second: bgSegredosFase1_323
+  - first:
+      213: -8297581982675487163
+    second: bgSegredosFase1_324
+  - first:
+      213: -9040470862049239081
+    second: bgSegredosFase1_325
+  - first:
+      213: 4001299258052304861
+    second: bgSegredosFase1_326
+  - first:
+      213: 2426071187824846832
+    second: bgSegredosFase1_327
+  - first:
+      213: 152864859175902747
+    second: bgSegredosFase1_328
+  - first:
+      213: -1512991144310875192
+    second: bgSegredosFase1_329
+  - first:
+      213: 4569354642201116251
+    second: bgSegredosFase1_330
+  - first:
+      213: -2775911952875549508
+    second: bgSegredosFase1_331
+  - first:
+      213: 7012562191212279764
+    second: bgSegredosFase1_332
+  - first:
+      213: 1965145588074879893
+    second: bgSegredosFase1_333
+  - first:
+      213: 5000204730116702392
+    second: bgSegredosFase1_334
+  - first:
+      213: 3578269183763582955
+    second: bgSegredosFase1_335
+  - first:
+      213: 954283217534466660
+    second: bgSegredosFase1_336
+  - first:
+      213: -6625531217010064390
+    second: bgSegredosFase1_337
+  - first:
+      213: 6537721250095191381
+    second: bgSegredosFase1_338
+  - first:
+      213: -5765197751069155566
+    second: bgSegredosFase1_339
+  - first:
+      213: -2160746386556086289
+    second: bgSegredosFase1_340
+  - first:
+      213: 1094392570013953004
+    second: bgSegredosFase1_341
+  - first:
+      213: -6467853736884348522
+    second: bgSegredosFase1_342
+  - first:
+      213: 2408962325155641505
+    second: bgSegredosFase1_343
+  - first:
+      213: 8201890819752201653
+    second: bgSegredosFase1_344
+  - first:
+      213: 7956216447742359877
+    second: bgSegredosFase1_345
+  - first:
+      213: 153646749495745144
+    second: bgSegredosFase1_346
+  - first:
+      213: 5476422015304901342
+    second: bgSegredosFase1_347
+  - first:
+      213: 5110574194667840912
+    second: bgSegredosFase1_348
+  - first:
+      213: 8264014615938670319
+    second: bgSegredosFase1_349
+  - first:
+      213: -4785813475792309226
+    second: bgSegredosFase1_350
+  - first:
+      213: 962352005221315113
+    second: bgSegredosFase1_351
+  - first:
+      213: 4248167123766451692
+    second: bgSegredosFase1_352
+  - first:
+      213: 2385018817344617451
+    second: bgSegredosFase1_353
+  - first:
+      213: -1987858373294267282
+    second: bgSegredosFase1_354
+  - first:
+      213: -8716757435564821637
+    second: bgSegredosFase1_355
+  - first:
+      213: -459677024110951491
+    second: bgSegredosFase1_356
+  - first:
+      213: -4886119804525660749
+    second: bgSegredosFase1_357
+  - first:
+      213: -6783701384363309445
+    second: bgSegredosFase1_358
+  - first:
+      213: 8223414586808983474
+    second: bgSegredosFase1_359
+  - first:
+      213: 439981367068644684
+    second: bgSegredosFase1_360
+  - first:
+      213: -8247971645442590151
+    second: bgSegredosFase1_361
+  - first:
+      213: 9153881368753365820
+    second: bgSegredosFase1_362
+  - first:
+      213: -7619333597308355051
+    second: bgSegredosFase1_363
+  - first:
+      213: -6020861880464107892
+    second: bgSegredosFase1_364
+  - first:
+      213: -4630720214161237332
+    second: bgSegredosFase1_365
+  - first:
+      213: 7718037764128919707
+    second: bgSegredosFase1_366
+  - first:
+      213: -2949644174744907210
+    second: bgSegredosFase1_367
+  - first:
+      213: 8753781671330263805
+    second: bgSegredosFase1_368
+  - first:
+      213: -1320872961438191342
+    second: bgSegredosFase1_369
+  - first:
+      213: 8748314753418966488
+    second: bgSegredosFase1_370
+  - first:
+      213: 8360702990089211668
+    second: bgSegredosFase1_371
+  - first:
+      213: 795529573904897620
+    second: bgSegredosFase1_372
+  - first:
+      213: -2618345557897669792
+    second: bgSegredosFase1_373
+  - first:
+      213: 5525651249505649923
+    second: bgSegredosFase1_374
+  - first:
+      213: 6268554964440301624
+    second: bgSegredosFase1_375
+  - first:
+      213: -2760516384743660137
+    second: bgSegredosFase1_376
+  - first:
+      213: 74680571260696852
+    second: bgSegredosFase1_377
+  - first:
+      213: 9033073223630178459
+    second: bgSegredosFase1_378
+  - first:
+      213: 55988684444990153
+    second: bgSegredosFase1_379
+  - first:
+      213: 1401826804539785485
+    second: bgSegredosFase1_380
+  - first:
+      213: 6754478657636075964
+    second: bgSegredosFase1_381
+  - first:
+      213: 4777794011104515934
+    second: bgSegredosFase1_382
+  - first:
+      213: 6819218638105563226
+    second: bgSegredosFase1_383
+  - first:
+      213: -4246838025122021975
+    second: bgSegredosFase1_384
+  - first:
+      213: -7332326443535707297
+    second: bgSegredosFase1_385
+  - first:
+      213: 4969676093400130577
+    second: bgSegredosFase1_386
+  - first:
+      213: -6782663973106476914
+    second: bgSegredosFase1_387
+  - first:
+      213: -7803771841278701265
+    second: bgSegredosFase1_388
+  - first:
+      213: 5919038350319207187
+    second: bgSegredosFase1_389
+  - first:
+      213: 6065320733216442546
+    second: bgSegredosFase1_390
+  - first:
+      213: 4039526099292585976
+    second: bgSegredosFase1_391
+  - first:
+      213: -1500077773990006643
+    second: bgSegredosFase1_392
+  - first:
+      213: -3243327902814474176
+    second: bgSegredosFase1_393
+  - first:
+      213: 3051059126655326671
+    second: bgSegredosFase1_394
+  - first:
+      213: -1959508291875079941
+    second: bgSegredosFase1_395
+  - first:
+      213: 3930699130234952927
+    second: bgSegredosFase1_396
+  - first:
+      213: -6775628341054145278
+    second: bgSegredosFase1_397
+  - first:
+      213: 8620522952893017884
+    second: bgSegredosFase1_398
+  - first:
+      213: 919500811044785092
+    second: bgSegredosFase1_399
+  - first:
+      213: 4295494891714829374
+    second: bgSegredosFase1_400
+  - first:
+      213: -1454338902572758182
+    second: bgSegredosFase1_401
+  - first:
+      213: -3231240312600940515
+    second: bgSegredosFase1_402
+  - first:
+      213: 882187615273664024
+    second: bgSegredosFase1_403
+  - first:
+      213: 3706304757686678168
+    second: bgSegredosFase1_404
+  - first:
+      213: 2012824742006798866
+    second: bgSegredosFase1_405
+  - first:
+      213: -6893352756732112519
+    second: bgSegredosFase1_406
+  - first:
+      213: -1850216952665492668
+    second: bgSegredosFase1_407
+  - first:
+      213: -7513254714340218855
+    second: bgSegredosFase1_408
+  - first:
+      213: -1516331779553315650
+    second: bgSegredosFase1_409
+  - first:
+      213: -3864989151132515863
+    second: bgSegredosFase1_410
+  - first:
+      213: -497061555135843765
+    second: bgSegredosFase1_411
+  - first:
+      213: 2771659942241756507
+    second: bgSegredosFase1_412
+  - first:
+      213: -6261809415533218842
+    second: bgSegredosFase1_413
+  - first:
+      213: 6540043726392545837
+    second: bgSegredosFase1_414
+  - first:
+      213: -454046611330841505
+    second: bgSegredosFase1_415
+  - first:
+      213: -8252279161139472278
+    second: bgSegredosFase1_416
+  - first:
+      213: -5401143916034546600
+    second: bgSegredosFase1_417
+  - first:
+      213: -5234012301851100295
+    second: bgSegredosFase1_418
+  - first:
+      213: -3366890935057629125
+    second: bgSegredosFase1_419
+  - first:
+      213: 2723084885633771917
+    second: bgSegredosFase1_420
+  - first:
+      213: -557214831397755143
+    second: bgSegredosFase1_421
+  - first:
+      213: -9092202489790249117
+    second: bgSegredosFase1_422
+  - first:
+      213: -6058920278899101927
+    second: bgSegredosFase1_423
+  - first:
+      213: -1530731774161673519
+    second: bgSegredosFase1_424
+  - first:
+      213: 6458440650908329126
+    second: bgSegredosFase1_425
+  - first:
+      213: 51935083253244833
+    second: bgSegredosFase1_426
+  - first:
+      213: 2107946214711195111
+    second: bgSegredosFase1_427
+  - first:
+      213: -8624668482249187233
+    second: bgSegredosFase1_428
+  - first:
+      213: 2887562309070849848
+    second: bgSegredosFase1_429
+  - first:
+      213: 4456079243175576428
+    second: bgSegredosFase1_430
+  - first:
+      213: 557685438379978483
+    second: bgSegredosFase1_431
+  - first:
+      213: -1497064263416053008
+    second: bgSegredosFase1_432
+  - first:
+      213: -7381120275178436947
+    second: bgSegredosFase1_433
+  - first:
+      213: 737062880350351148
+    second: bgSegredosFase1_434
+  - first:
+      213: 1189627161084714702
+    second: bgSegredosFase1_435
+  - first:
+      213: -8976385566870621467
+    second: bgSegredosFase1_436
+  - first:
+      213: -3596494921896142149
+    second: bgSegredosFase1_437
+  - first:
+      213: 5460676176479600422
+    second: bgSegredosFase1_438
+  - first:
+      213: 4566221953522313426
+    second: bgSegredosFase1_439
+  - first:
+      213: -6221647253522128816
+    second: bgSegredosFase1_440
+  - first:
+      213: -1208273011181039684
+    second: bgSegredosFase1_441
+  - first:
+      213: 357329622131629971
+    second: bgSegredosFase1_442
+  - first:
+      213: 1722590809726580873
+    second: bgSegredosFase1_443
+  - first:
+      213: 6076318509021610656
+    second: bgSegredosFase1_444
+  - first:
+      213: -2199424782645247554
+    second: bgSegredosFase1_445
+  - first:
+      213: -916855606640409055
+    second: bgSegredosFase1_446
+  - first:
+      213: -1327860410787782235
+    second: bgSegredosFase1_447
+  - first:
+      213: -4461868321144868894
+    second: bgSegredosFase1_448
+  - first:
+      213: 1016155081385600656
+    second: bgSegredosFase1_449
+  - first:
+      213: 6520595825249199501
+    second: bgSegredosFase1_450
+  - first:
+      213: -692496435469439892
+    second: bgSegredosFase1_451
+  - first:
+      213: 5459478968337153315
+    second: bgSegredosFase1_452
+  - first:
+      213: 4615841287576865102
+    second: bgSegredosFase1_453
+  - first:
+      213: 5422801888732852238
+    second: bgSegredosFase1_454
+  - first:
+      213: -2895798488729505451
+    second: bgSegredosFase1_455
+  - first:
+      213: -4962053500845929346
+    second: bgSegredosFase1_456
+  - first:
+      213: -1839574910575465387
+    second: bgSegredosFase1_457
+  - first:
+      213: 8519970715642363145
+    second: bgSegredosFase1_458
+  - first:
+      213: -1146887108548077867
+    second: bgSegredosFase1_459
+  - first:
+      213: -8054063861463806524
+    second: bgSegredosFase1_460
+  - first:
+      213: 1141268539338295588
+    second: bgSegredosFase1_461
+  - first:
+      213: -5243624287770493347
+    second: bgSegredosFase1_462
+  - first:
+      213: 7714424691839633254
+    second: bgSegredosFase1_463
+  - first:
+      213: 3847162824785725924
+    second: bgSegredosFase1_464
+  - first:
+      213: -8497204914972143844
+    second: bgSegredosFase1_465
+  - first:
+      213: 8877340077475550268
+    second: bgSegredosFase1_466
+  - first:
+      213: 2618711939444307836
+    second: bgSegredosFase1_467
+  - first:
+      213: -760715308482130376
+    second: bgSegredosFase1_468
+  - first:
+      213: -7471680260343090259
+    second: bgSegredosFase1_469
+  - first:
+      213: -2228185623468283936
+    second: bgSegredosFase1_470
+  - first:
+      213: -5448468536144546622
+    second: bgSegredosFase1_471
+  - first:
+      213: 295545808595581716
+    second: bgSegredosFase1_472
+  - first:
+      213: -6802054335266701810
+    second: bgSegredosFase1_473
+  - first:
+      213: 6889371382481791316
+    second: bgSegredosFase1_474
+  - first:
+      213: -3073607274452821921
+    second: bgSegredosFase1_475
+  - first:
+      213: 3648456543911242320
+    second: bgSegredosFase1_476
+  - first:
+      213: -5700800671025056518
+    second: bgSegredosFase1_477
+  - first:
+      213: -850692035763610743
+    second: bgSegredosFase1_478
+  - first:
+      213: -9110467062765597947
+    second: bgSegredosFase1_479
+  - first:
+      213: -6501802675730487738
+    second: bgSegredosFase1_480
+  - first:
+      213: -8656255207615022720
+    second: bgSegredosFase1_481
+  - first:
+      213: 5890018863133347986
+    second: bgSegredosFase1_482
+  - first:
+      213: -6833438016636700743
+    second: bgSegredosFase1_483
+  - first:
+      213: -149288971974940226
+    second: bgSegredosFase1_484
+  - first:
+      213: -8253121371995226100
+    second: bgSegredosFase1_485
+  - first:
+      213: 8728915228646050662
+    second: bgSegredosFase1_486
+  - first:
+      213: 89605914781128313
+    second: bgSegredosFase1_487
+  - first:
+      213: 5692067606253888914
+    second: bgSegredosFase1_488
+  - first:
+      213: 126627740280661316
+    second: bgSegredosFase1_489
+  - first:
+      213: 2803070791312537609
+    second: bgSegredosFase1_490
+  - first:
+      213: 6949382529876078311
+    second: bgSegredosFase1_491
+  - first:
+      213: 7332094658787945750
+    second: bgSegredosFase1_492
+  - first:
+      213: 4843847716711915035
+    second: bgSegredosFase1_493
+  - first:
+      213: 3932455598062563165
+    second: bgSegredosFase1_494
+  - first:
+      213: 2760928186061993041
+    second: bgSegredosFase1_495
+  - first:
+      213: -7287015187024125536
+    second: bgSegredosFase1_496
+  - first:
+      213: -3872591255094465793
+    second: bgSegredosFase1_497
+  - first:
+      213: -5823329784011800339
+    second: bgSegredosFase1_498
+  - first:
+      213: -8073798522669796447
+    second: bgSegredosFase1_499
+  - first:
+      213: 3135510957036338183
+    second: bgSegredosFase1_500
+  - first:
+      213: 4285603219148565093
+    second: bgSegredosFase1_501
+  - first:
+      213: 8343206005708136725
+    second: bgSegredosFase1_502
+  - first:
+      213: -5483442820782059519
+    second: bgSegredosFase1_503
+  - first:
+      213: 3937759203470932293
+    second: bgSegredosFase1_504
+  - first:
+      213: 2667039943727076522
+    second: bgSegredosFase1_505
+  - first:
+      213: 2732219880681460048
+    second: bgSegredosFase1_506
+  - first:
+      213: -5172416700558226921
+    second: bgSegredosFase1_507
+  - first:
+      213: 1176857196039275940
+    second: bgSegredosFase1_508
+  - first:
+      213: -1913202958130783699
+    second: bgSegredosFase1_509
+  - first:
+      213: 1689865281376924657
+    second: bgSegredosFase1_510
+  - first:
+      213: 690220549220319558
+    second: bgSegredosFase1_511
+  - first:
+      213: -2034485872645539111
+    second: bgSegredosFase1_512
+  - first:
+      213: -6953524940954998664
+    second: bgSegredosFase1_513
+  - first:
+      213: -3319043683987060190
+    second: bgSegredosFase1_514
+  - first:
+      213: 6474262713774802461
+    second: bgSegredosFase1_515
+  - first:
+      213: 8226253721797337261
+    second: bgSegredosFase1_516
+  - first:
+      213: -8042262745954929755
+    second: bgSegredosFase1_517
+  - first:
+      213: -2105065033221787683
+    second: bgSegredosFase1_518
+  - first:
+      213: 4521201368842813848
+    second: bgSegredosFase1_519
+  - first:
+      213: -4130766651024909358
+    second: bgSegredosFase1_520
+  - first:
+      213: -1918435948287761181
+    second: bgSegredosFase1_521
+  - first:
+      213: -3062277356103557896
+    second: bgSegredosFase1_522
+  - first:
+      213: 3017455354116389261
+    second: bgSegredosFase1_523
+  - first:
+      213: -5894205254458936359
+    second: bgSegredosFase1_524
+  - first:
+      213: 7234178877622429124
+    second: bgSegredosFase1_525
+  - first:
+      213: -8124238714950226992
+    second: bgSegredosFase1_526
+  - first:
+      213: 5104567981983470744
+    second: bgSegredosFase1_527
+  - first:
+      213: 8074670610514355330
+    second: bgSegredosFase1_528
+  - first:
+      213: -4315276803698885781
+    second: bgSegredosFase1_529
+  - first:
+      213: 3435412440671608890
+    second: bgSegredosFase1_530
+  - first:
+      213: 2599667677249310183
+    second: bgSegredosFase1_531
+  - first:
+      213: 7469481907779951903
+    second: bgSegredosFase1_532
+  - first:
+      213: 3324560984471622866
+    second: bgSegredosFase1_533
+  - first:
+      213: -1151206227211158953
+    second: bgSegredosFase1_534
+  - first:
+      213: 7416149431345260363
+    second: bgSegredosFase1_535
+  - first:
+      213: -1272060583493517040
+    second: bgSegredosFase1_536
+  - first:
+      213: 3480976026260778621
+    second: bgSegredosFase1_537
+  - first:
+      213: 3282416124332060710
+    second: bgSegredosFase1_538
+  - first:
+      213: 957891038445092553
+    second: bgSegredosFase1_539
+  - first:
+      213: -5295900583129030252
+    second: bgSegredosFase1_540
+  - first:
+      213: 2850624354972731245
+    second: bgSegredosFase1_541
+  - first:
+      213: 4349231041157136692
+    second: bgSegredosFase1_542
+  - first:
+      213: -6812697900393444568
+    second: bgSegredosFase1_543
+  - first:
+      213: 840513757363377900
+    second: bgSegredosFase1_544
+  - first:
+      213: 5643217162223332279
+    second: bgSegredosFase1_545
+  - first:
+      213: 3711024421416142278
+    second: bgSegredosFase1_546
+  - first:
+      213: -6030976682130743340
+    second: bgSegredosFase1_547
+  - first:
+      213: 2225480820721014358
+    second: bgSegredosFase1_548
+  - first:
+      213: 8998872928746474373
+    second: bgSegredosFase1_549
+  - first:
+      213: 101066207355519879
+    second: bgSegredosFase1_550
+  - first:
+      213: 8385879817764168705
+    second: bgSegredosFase1_551
+  - first:
+      213: -4920958676900865377
+    second: bgSegredosFase1_552
+  - first:
+      213: 6375937577879254564
+    second: bgSegredosFase1_553
+  - first:
+      213: -1538733479568477644
+    second: bgSegredosFase1_554
+  - first:
+      213: -159080230569700073
+    second: bgSegredosFase1_555
+  - first:
+      213: -5521263146746803168
+    second: bgSegredosFase1_556
+  - first:
+      213: -7784535721152412447
+    second: bgSegredosFase1_557
+  - first:
+      213: -5374103694176116512
+    second: bgSegredosFase1_558
+  - first:
+      213: 1651435669778078197
+    second: bgSegredosFase1_559
+  - first:
+      213: -8114684785049061325
+    second: bgSegredosFase1_560
+  - first:
+      213: -3526022173686219194
+    second: bgSegredosFase1_561
+  - first:
+      213: -1439435966671294250
+    second: bgSegredosFase1_562
+  - first:
+      213: -4824650035906407660
+    second: bgSegredosFase1_563
+  - first:
+      213: 1460295197313232816
+    second: bgSegredosFase1_564
+  - first:
+      213: -5279662122080639811
+    second: bgSegredosFase1_565
+  - first:
+      213: 6424580874717710578
+    second: bgSegredosFase1_566
+  - first:
+      213: -3348951195557859812
+    second: bgSegredosFase1_567
+  - first:
+      213: -2422602307960653239
+    second: bgSegredosFase1_568
+  - first:
+      213: -8650660586057678334
+    second: bgSegredosFase1_569
+  - first:
+      213: -3042846392367772331
+    second: bgSegredosFase1_570
+  - first:
+      213: -6846778401355321585
+    second: bgSegredosFase1_571
+  - first:
+      213: 6280165319134155590
+    second: bgSegredosFase1_572
+  - first:
+      213: -1053039387991131360
+    second: bgSegredosFase1_573
+  - first:
+      213: -811570490222112294
+    second: bgSegredosFase1_574
+  - first:
+      213: 663127669686765043
+    second: bgSegredosFase1_575
+  - first:
+      213: 5395879536415107610
+    second: bgSegredosFase1_576
+  - first:
+      213: -3306223180215251024
+    second: bgSegredosFase1_577
+  - first:
+      213: 3531960993718304448
+    second: bgSegredosFase1_578
+  - first:
+      213: 580230312961666686
+    second: bgSegredosFase1_579
+  - first:
+      213: 4461360231634882732
+    second: bgSegredosFase1_580
+  - first:
+      213: -590895498986095129
+    second: bgSegredosFase1_581
+  - first:
+      213: -1760205876555863624
+    second: bgSegredosFase1_582
+  - first:
+      213: 1106709462849024323
+    second: bgSegredosFase1_583
+  - first:
+      213: -2610816015641268505
+    second: bgSegredosFase1_584
+  - first:
+      213: 2777774243470297712
+    second: bgSegredosFase1_585
+  - first:
+      213: -6921334668287667531
+    second: bgSegredosFase1_586
+  - first:
+      213: -3679807772401707941
+    second: bgSegredosFase1_587
+  - first:
+      213: 8545325693676173415
+    second: bgSegredosFase1_588
+  - first:
+      213: 2698811788178246493
+    second: bgSegredosFase1_589
+  - first:
+      213: 787524247423940132
+    second: bgSegredosFase1_590
+  - first:
+      213: -9068704611197936222
+    second: bgSegredosFase1_591
+  - first:
+      213: 4139345181258804745
+    second: bgSegredosFase1_592
+  - first:
+      213: -5140709038843667661
+    second: bgSegredosFase1_593
+  - first:
+      213: 5509571265277580917
+    second: bgSegredosFase1_594
+  - first:
+      213: -6886279211288879922
+    second: bgSegredosFase1_595
+  - first:
+      213: 2405311118570440996
+    second: bgSegredosFase1_596
+  - first:
+      213: 4637321275836799933
+    second: bgSegredosFase1_597
+  - first:
+      213: -1972607208532718912
+    second: bgSegredosFase1_598
+  - first:
+      213: -398528243939557688
+    second: bgSegredosFase1_599
+  - first:
+      213: -8272172010932274175
+    second: bgSegredosFase1_600
+  - first:
+      213: -6009397035453880295
+    second: bgSegredosFase1_601
+  - first:
+      213: 1012692473864647386
+    second: bgSegredosFase1_602
+  - first:
+      213: 5075676377099343299
+    second: bgSegredosFase1_603
+  - first:
+      213: 2791759410333031556
+    second: bgSegredosFase1_604
+  - first:
+      213: 4434530034151842254
+    second: bgSegredosFase1_605
+  - first:
+      213: -4087540430488585123
+    second: bgSegredosFase1_606
+  - first:
+      213: -7436554157368855355
+    second: bgSegredosFase1_607
+  - first:
+      213: 8760489239750459842
+    second: bgSegredosFase1_608
+  - first:
+      213: 2043514502925996809
+    second: bgSegredosFase1_609
+  - first:
+      213: -302649043750312447
+    second: bgSegredosFase1_610
+  - first:
+      213: 447525976348059614
+    second: bgSegredosFase1_611
+  - first:
+      213: 4899196963587657427
+    second: bgSegredosFase1_612
+  - first:
+      213: -5623705225574734226
+    second: bgSegredosFase1_613
+  - first:
+      213: -8656452569060432889
+    second: bgSegredosFase1_614
+  - first:
+      213: 6019359315291726218
+    second: bgSegredosFase1_615
+  - first:
+      213: 8139243712164845007
+    second: bgSegredosFase1_616
+  - first:
+      213: 3718515538392020838
+    second: bgSegredosFase1_617
+  - first:
+      213: 7611238783461154560
+    second: bgSegredosFase1_618
+  - first:
+      213: -4297530177333661939
+    second: bgSegredosFase1_619
+  - first:
+      213: 8548561941217822087
+    second: bgSegredosFase1_620
+  - first:
+      213: 2501383342376346620
+    second: bgSegredosFase1_621
+  - first:
+      213: -2737162158911116464
+    second: bgSegredosFase1_622
+  - first:
+      213: -3373628314817251896
+    second: bgSegredosFase1_623
+  - first:
+      213: 8720466135968229462
+    second: bgSegredosFase1_624
+  - first:
+      213: -8651320114105584405
+    second: bgSegredosFase1_625
+  - first:
+      213: -6049299773336038222
+    second: bgSegredosFase1_626
+  - first:
+      213: -791984444571578695
+    second: bgSegredosFase1_627
+  - first:
+      213: 8511485513540725964
+    second: bgSegredosFase1_628
+  - first:
+      213: 241938198743445101
+    second: bgSegredosFase1_629
+  - first:
+      213: 8531196375533656459
+    second: bgSegredosFase1_630
+  - first:
+      213: 4318885666011357322
+    second: bgSegredosFase1_631
+  - first:
+      213: -8525303609540646498
+    second: bgSegredosFase1_632
+  - first:
+      213: 404761783717576891
+    second: bgSegredosFase1_633
+  - first:
+      213: -8151364905176313480
+    second: bgSegredosFase1_634
+  - first:
+      213: -2439336523793518135
+    second: bgSegredosFase1_635
+  - first:
+      213: 6976553764499365401
+    second: bgSegredosFase1_636
+  - first:
+      213: 157770983922661668
+    second: bgSegredosFase1_637
+  - first:
+      213: 8375215275947250126
+    second: bgSegredosFase1_638
+  - first:
+      213: 2158776109101032387
+    second: bgSegredosFase1_639
+  - first:
+      213: 8344475567221249165
+    second: bgSegredosFase1_640
+  - first:
+      213: -9208199893566325061
+    second: bgSegredosFase1_641
+  - first:
+      213: 1373080377142168189
+    second: bgSegredosFase1_642
+  - first:
+      213: -438595676878023193
+    second: bgSegredosFase1_643
+  - first:
+      213: 6463434611236138488
+    second: bgSegredosFase1_644
+  - first:
+      213: 6752448996842778525
+    second: bgSegredosFase1_645
+  - first:
+      213: -8115058676420246678
+    second: bgSegredosFase1_646
+  - first:
+      213: -6991304631924379895
+    second: bgSegredosFase1_647
+  - first:
+      213: 6752369375385618823
+    second: bgSegredosFase1_648
+  - first:
+      213: -1758220586560727934
+    second: bgSegredosFase1_649
+  - first:
+      213: -1757230601819179169
+    second: bgSegredosFase1_650
+  - first:
+      213: -5975105487595415635
+    second: bgSegredosFase1_651
+  - first:
+      213: -7859100848992712912
+    second: bgSegredosFase1_652
+  - first:
+      213: -8711208537664012883
+    second: bgSegredosFase1_653
+  - first:
+      213: -5234436165088113960
+    second: bgSegredosFase1_654
+  - first:
+      213: 9067416879613926203
+    second: bgSegredosFase1_655
+  - first:
+      213: 1367877883137035348
+    second: bgSegredosFase1_656
+  - first:
+      213: -953575797145132771
+    second: bgSegredosFase1_657
+  - first:
+      213: -5123736401958063491
+    second: bgSegredosFase1_658
+  - first:
+      213: -5705029290397714482
+    second: bgSegredosFase1_659
+  - first:
+      213: -4059762153764694802
+    second: bgSegredosFase1_660
+  - first:
+      213: -7229619419218997150
+    second: bgSegredosFase1_661
+  - first:
+      213: -8706627737155044350
+    second: bgSegredosFase1_662
+  - first:
+      213: -7881305009336072832
+    second: bgSegredosFase1_663
+  - first:
+      213: -3957790935900462167
+    second: bgSegredosFase1_664
+  - first:
+      213: -8958648225909645675
+    second: bgSegredosFase1_665
+  - first:
+      213: -1350039874129708918
+    second: bgSegredosFase1_666
+  - first:
+      213: -343866491942423644
+    second: bgSegredosFase1_667
+  - first:
+      213: 6923747299624500050
+    second: bgSegredosFase1_668
+  - first:
+      213: 3977233161061687907
+    second: bgSegredosFase1_669
+  - first:
+      213: 4699356058490398599
+    second: bgSegredosFase1_670
+  - first:
+      213: 3616374555870507035
+    second: bgSegredosFase1_671
+  - first:
+      213: -8062823402977409338
+    second: bgSegredosFase1_672
+  - first:
+      213: -5377735436519334253
+    second: bgSegredosFase1_673
+  - first:
+      213: 74384041808621596
+    second: bgSegredosFase1_674
+  - first:
+      213: -6473144064070038115
+    second: bgSegredosFase1_675
+  - first:
+      213: 528439181802316774
+    second: bgSegredosFase1_676
+  - first:
+      213: -3779004314141036539
+    second: bgSegredosFase1_677
+  - first:
+      213: -5861942865207322089
+    second: bgSegredosFase1_678
+  - first:
+      213: -6367875144321033955
+    second: bgSegredosFase1_679
+  - first:
+      213: -1929726262583541148
+    second: bgSegredosFase1_680
+  - first:
+      213: 8687361379451020563
+    second: bgSegredosFase1_681
+  - first:
+      213: 3929578846862789892
+    second: bgSegredosFase1_682
+  - first:
+      213: -2599916120238399494
+    second: bgSegredosFase1_683
+  - first:
+      213: 3974120674647442912
+    second: bgSegredosFase1_684
+  - first:
+      213: -2951354347509107767
+    second: bgSegredosFase1_685
+  - first:
+      213: -6355202133297281857
+    second: bgSegredosFase1_686
+  - first:
+      213: -440880737156331143
+    second: bgSegredosFase1_687
+  - first:
+      213: -703707902343094537
+    second: bgSegredosFase1_688
+  - first:
+      213: -3301200659254848664
+    second: bgSegredosFase1_689
+  - first:
+      213: -8497121104359237226
+    second: bgSegredosFase1_690
+  - first:
+      213: 4135586708831549207
+    second: bgSegredosFase1_691
+  - first:
+      213: -4385854368914024417
+    second: bgSegredosFase1_692
+  - first:
+      213: -1619255049742614195
+    second: bgSegredosFase1_693
+  - first:
+      213: -6456156092472830737
+    second: bgSegredosFase1_694
+  - first:
+      213: -7415918108536948549
+    second: bgSegredosFase1_695
+  - first:
+      213: -5870478014120865267
+    second: bgSegredosFase1_696
+  - first:
+      213: -8203336014826954185
+    second: bgSegredosFase1_697
+  - first:
+      213: -5995354395318108124
+    second: bgSegredosFase1_698
+  - first:
+      213: -736480971528572338
+    second: bgSegredosFase1_699
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bgSegredosFase1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28087860060e99870800000000000000
+      internalID: 8690223659019108482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2775bd5d163d2e0800000000000000
+      internalID: -2102229029916020021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe848a3cadb2be0800000000000000
+      internalID: -1500865516921099352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695afb6bb42e74a10800000000000000
+      internalID: 1893730983149020566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa047e9b697e0f920800000000000000
+      internalID: 3022169984515653807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7becb822acb2b7ff0800000000000000
+      internalID: -37388024739541321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cfe450e39929500800000000000000
+      internalID: 401551808445479999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a6bd7cd96727b0800000000000000
+      internalID: -5249110444954179140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d409b0527538690800000000000000
+      internalID: -7601135929451852458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6724625ed717dede0800000000000000
+      internalID: -1302259931710864778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5ae9fd31af15a0800000000000000
+      internalID: -6548338045615448310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6513fe582db84e0800000000000000
+      internalID: -1978256138613729616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7fad1b0a3609dd0800000000000000
+      internalID: -2481373852851308559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418220a9860144c0800000000000000
+      internalID: -4305152580622581440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a3f0a4596b5480800000000000000
+      internalID: -8909411625623903723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878cd62f2cfe01520800000000000000
+      internalID: 2670898199600679032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8cc2b4114d8c40800000000000000
+      internalID: 5516136675753626310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041c344028976a20800000000000000
+      internalID: 3055578136545334278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc224d3f2664108b0800000000000000
+      internalID: -5187787904942595379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797f9110e1827900800000000000000
+      internalID: 680749293054687602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b774ed11be98d7c0800000000000000
+      internalID: -4046309781644478542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40f29ebd34daef0800000000000000
+      internalID: -95345405315840793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35715c415c963530800000000000000
+      internalID: 3834424005739246909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a557ed22c56cf2ed0800000000000000
+      internalID: -2436510774359853734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa31fe139843290800000000000000
+      internalID: -7911547797825671265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a4bc7f9e072710800000000000000
+      internalID: 1668318265118861770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40263c3e26fa84c80800000000000000
+      internalID: -8338221870813584892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8deaca069b914f10800000000000000
+      internalID: 2252252357390429579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63408973bd743c60800000000000000
+      internalID: 7796995064676238191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb55b865e010e520800000000000000
+      internalID: 2729199951676791787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46c8dd3cb2ad970800000000000000
+      internalID: 8780378543747785963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306500d75c990ca0800000000000000
+      internalID: -6050132723429449675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbd4d4a46dc80d0800000000000000
+      internalID: -3419122402468184105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813abc260ec934e70800000000000000
+      internalID: 9098288159762653976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15abf51cbb252aee0800000000000000
+      internalID: -1251346780098938287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8bb4793b3382cc0800000000000000
+      internalID: -3735679044473341735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29b6d59bf420ed0800000000000000
+      internalID: -2449307589781253396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723af670aede20470800000000000000
+      internalID: 8359505447755948839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734585e42ab8e6e10800000000000000
+      internalID: 2192843597791384631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb362356c8947b80800000000000000
+      internalID: -8397919427573171252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03e9c1709762200800000000000000
+      internalID: 154944308642722038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01334b5869d0e6950800000000000000
+      internalID: 6444103056953193232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bff2979aaa1c050800000000000000
+      internalID: 5819119838398774029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ef4293a28a70c0800000000000000
+      internalID: -4577202432222697334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab7b70b16806ab0800000000000000
+      internalID: -5016862534239012215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60d52e57b5eb2e0800000000000000
+      internalID: -2108147013695764820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6cdaadb099e670800000000000000
+      internalID: 8568538910338870813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67790fef6cd77700800000000000000
+      internalID: 538141053803919214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d877974c3f034a70800000000000000
+      internalID: 8809902047640385751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302226dd039617c80800000000000000
+      internalID: -8326758577437793789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4126f7f79551240800000000000000
+      internalID: 4761810585147020506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea83414c89e8520800000000000000
+      internalID: 2706268394016517879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42117a2dbe7bfb090800000000000000
+      internalID: -8016486588216831708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703333602764ec710800000000000000
+      internalID: 1715385963618972423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d57aacf4a4db260800000000000000
+      internalID: 7114924692878089473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5037e0d89efc157a0800000000000000
+      internalID: -6390097794261159163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841393ae7bd7e4f0800000000000000
+      internalID: -799429071878286206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b99933c1b71d00800000000000000
+      internalID: 943418099000521292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf28d8be7a61e5a50800000000000000
+      internalID: 6511667021691585275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3801d70b32e7c3db0800000000000000
+      internalID: -4810831610188590973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b816168f5d6fd20800000000000000
+      internalID: 3312069838739966801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e67bccf412e260800000000000000
+      internalID: 7125280636431425854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19802daec95f0980800000000000000
+      internalID: -8570532821660038885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a6e74669a2f090800000000000000
+      internalID: -8002147331125893736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4fac40c7d026ae0800000000000000
+      internalID: -1557667694809254722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e81d2dd92afb50800000000000000
+      internalID: 6627655831550222754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db5b8dfbeec34c0800000000000000
+      internalID: -4306304635931083515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23adbe53dcf9e8a50800000000000000
+      internalID: 6525328613828188722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285bb834fdce3110800000000000000
+      internalID: 1242656996008351783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e924d7251439bc0800000000000000
+      internalID: -3777603839889072623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e53fada742ace0800000000000000
+      internalID: -1395474123236973588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf75c8b703826c0800000000000000
+      internalID: -4168028147937707307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e42c5535b4fe3d0800000000000000
+      internalID: -3175236390979744128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a80b3e64dd94e0800000000000000
+      internalID: -1973187491816494784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a22f1219d9abf750800000000000000
+      internalID: 6339847650231132837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99dc16269ba99ea0800000000000000
+      internalID: -5865468378300491362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faadd5f3ae0c6cb0800000000000000
+      internalID: -4869500999726945547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c2704034c670ef0800000000000000
+      internalID: -142025828152693662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f64e9073678d410800000000000000
+      internalID: 1502080454489304989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188af9a663efd1f40800000000000000
+      internalID: 5700992212991453313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7babfbe14f0760800000000000000
+      internalID: 7426226792352676628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef81f39896d7bf0800000000000000
+      internalID: -324987559910769081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858bc3c27ac5e1b10800000000000000
+      internalID: 1954101161396844632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1f98d771450190800000000000000
+      internalID: -7996913580335227224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78db392fa59ee4f0800000000000000
+      internalID: -797535504454395779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b602ebd02503a90800000000000000
+      internalID: -7336273574008689870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612871c0a5be9560800000000000000
+      internalID: 7322489746196275557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ecc79bdcd2ab50800000000000000
+      internalID: 6603082839381304822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9750d90ed491c30800000000000000
+      internalID: 4330578143795837436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5dfed34a0f8f280800000000000000
+      internalID: -9009186466350246464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e7e2f6431cc9f0800000000000000
+      internalID: -446961067572600816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b696a41d0ec0c60800000000000000
+      internalID: 7785845045317954404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2213497f992e590800000000000000
+      internalID: -7646379928699460943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647af69e21e7f330800000000000000
+      internalID: 3744709205399598185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7f43a6a9b6b640800000000000000
+      internalID: 5095464153771899649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff34596c37ae9d0800000000000000
+      internalID: -2744253726183915609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4e71de5011f130800000000000000
+      internalID: 3598675576673422744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1471b53ceb1730800000000000000
+      internalID: 3971027211811822734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940999d573f4f3d80800000000000000
+      internalID: -8268803291616800695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da6e881004fd6f0800000000000000
+      internalID: -657736645236839015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fa9ddcb4394e30800000000000000
+      internalID: 4488176489427826271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b110418566894730800000000000000
+      internalID: 3983863115904192949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550221b1e44c73d0800000000000000
+      internalID: -3207613098464508583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b11ac64e1823360800000000000000
+      internalID: 7147918376665422613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bb9418d52f84e0800000000000000
+      internalID: -1977320101403445344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f66483f621e86d0800000000000000
+      internalID: -2986429234005250215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b80978f5833f48a0800000000000000
+      internalID: -6318775101685167951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d58dd2ff5bb7610800000000000000
+      internalID: 1620088598560267532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f65e8370bff5120800000000000000
+      internalID: 2404916734477037410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3e5b0d9056b9f0800000000000000
+      internalID: -453086077073343321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd064624b9abf010800000000000000
+      internalID: 1223758314962554316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5425029afe56cfcc0800000000000000
+      internalID: -3675951115832110523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ece37feb23eb00800000000000000
+      internalID: 856576661572608250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7eda73e17b04300800000000000000
+      internalID: 234388521034311677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6b0435e6a5b2c00800000000000000
+      internalID: 876893982343345828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14ffebde7f99370800000000000000
+      internalID: 8329961586282152353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68115dd11ab66090800000000000000
+      internalID: -8041535498733152146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cb2df5b6411810800000000000000
+      internalID: 1734245078964879973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245635c4a7de18f0800000000000000
+      internalID: -567779400318823389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef9308627f015c90800000000000000
+      internalID: -7182942946633474070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dfc90fe12fac320800000000000000
+      internalID: 2579139951322791225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b979e96b680730800000000000000
+      internalID: 3965537574532527815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5891bf2f7e5fe20800000000000000
+      internalID: 3383865725819651553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db04dc06869fe260800000000000000
+      internalID: 7129082237635791826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c3ec78cf5aa640800000000000000
+      internalID: 5091987643389167968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c3a2ad39048d390800000000000000
+      internalID: -7793408151400072049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2843d07618b0c0800000000000000
+      internalID: -4559869948875756695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d27e264db882b0800000000000000
+      internalID: -5582003629001091993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbb10eb606597e0800000000000000
+      internalID: -1759394062980629033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_129
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e758ccab41ef90e0800000000000000
+      internalID: -2260840772779091999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_130
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b52c332d8cc8850800000000000000
+      internalID: 6380695577214212905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_131
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1a5828afd21e40800000000000000
+      internalID: 5625804797863664221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_132
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db209a30d457840800000000000000
+      internalID: 5221164021121727858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e3b50d2bdbbaf0800000000000000
+      internalID: -379468757166987681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb572a94f380bb530800000000000000
+      internalID: 3871697372566418875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_135
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f88cbc1678bd640800000000000000
+      internalID: 5105823456655085455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce23988246cc5c30800000000000000
+      internalID: 4349569329194544844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7f47ebedab2e00800000000000000
+      internalID: 1021100969239215084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047dbd1dca72acb0800000000000000
+      internalID: -4854182426966133748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2660c78227f510800000000000000
+      internalID: 1582771760487870102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a104ec874768060800000000000000
+      internalID: 6955374736725514811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e6911108b5f840800000000000000
+      internalID: 5257310454754501931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434ea916566d06d70800000000000000
+      internalID: 9034456583422796852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ee68b9411f0520800000000000000
+      internalID: 2670372112378553459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbc17e1e578dde0800000000000000
+      internalID: -1308166078645617366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4285d2115b4301e50800000000000000
+      internalID: 6777975391474505764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d2b26a3da54510800000000000000
+      internalID: 1532821714465118498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_147
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c779ce9c79c981f0800000000000000
+      internalID: -1042080301682427962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10271b9c34db5f0800000000000000
+      internalID: -739360230274366984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_149
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d57fcf0ed2b040800000000000000
+      internalID: 4662032723768365227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_150
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb584207a0c532d0800000000000000
+      internalID: -3299519328448652293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_151
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5673ea8c418e8a0800000000000000
+      internalID: -6275743228591905374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19550671d2fdbd3f0800000000000000
+      internalID: -874860317834717807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1284ca1fa34240800000000000000
+      internalID: 4774852559443729207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d1a480b9780e10800000000000000
+      internalID: 2164113419997926218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f576ff90295441b80800000000000000
+      internalID: -8425032509368080545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28631ac9c03d09a0800000000000000
+      internalID: -6265297863365662674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f481c3edaf09260800000000000000
+      internalID: 7102452444761182087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7328e5af7382e80800000000000000
+      internalID: -8203245172788414523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e430be5da2ae290800000000000000
+      internalID: -7860423101362516344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c17698c9c1a80f0800000000000000
+      internalID: -1114046499175064427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997074ec72b520e30800000000000000
+      internalID: 4468234006827567001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_162
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccbfc5a7206796e0800000000000000
+      internalID: -1830889000100971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f76cf4e3314800800000000000000
+      internalID: 594813684369847831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_164
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf84a15ab011300800000000000000
+      internalID: 220970660456364990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_165
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf44fe16516c8f0800000000000000
+      internalID: -520705196544426885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_166
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314df8e2e0f693f90800000000000000
+      internalID: -6973420441305099245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08ccd38d460c1c0800000000000000
+      internalID: -4485474348948487958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_168
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc8377d4b073180800000000000000
+      internalID: -9135820891757163584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgSegredosFase1_169
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2ddba3562d92e0800000000000000
+      internalID: -2117494108986725390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

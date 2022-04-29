@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c08ff486ef3d684aa40ba987225bd88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _estrelaGanha1: {fileID: 6965746217788080860, guid: f0cf9a562e1d5ba4abbc28659782bdb9,
+      type: 3}
+  - _estrelaGanha2: {instanceID: 0}
+  - _estrelaGanha3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
